@@ -19,7 +19,7 @@ public class Start {
 		  searchBox.submit();
 		  Thread.sleep(5000);  // Let the user actually see something!
 		  driver.quit();
-		driver.close(); // I am adding This statement for commit and then automatic build in Jenkins
+		
 		
 //		WebDriver driver = null;
 //		 
